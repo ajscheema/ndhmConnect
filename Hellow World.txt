@@ -4,5 +4,3 @@ Change 2
 
 Change 1
 
-Change 3 by collaborator for generating pull request
-
